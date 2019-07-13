@@ -8,7 +8,7 @@
 </head>
 <body>
 <pre>
-    Các
+    Các phím tắt của PHP Storm :
     1. ctrl f: tìm kiếm trong file hiện tại
     2. ctrl r: tìm kiếm và thay thế cụm từ trong file hiện tại
     3. ctrl shift f: tìm kiếm trong toàn bộ dự án
